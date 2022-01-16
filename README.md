@@ -1,7 +1,7 @@
 # Merhaba güzel 😄✌️
 🔭 I’m currently working on Fronend Web D, IOT, CP and DSA.
 <br>
-🌱 I’m currently learning React, Nod.
+🌱 I’m currently learning React, NodeJs.
 <br>
 👯 I’m looking to collaborate on Web D.
 <!--
