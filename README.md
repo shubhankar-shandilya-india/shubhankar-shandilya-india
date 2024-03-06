@@ -15,7 +15,6 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/shubhankar-shandilya-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhankar-shandilya-/" height="30" width="40" /></a>
-<a href="https://fb.com/shubhankar.shandilya.india/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shubhankar.shandilya.india/" height="30" width="40" /></a>
 <a href="https://instagram.com/_shxbh_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubhankar.shandilya/" height="30" width="40" /></a>
 <a href="https://leetcode.com/shxbh/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" alt="shubhankar.shandilya/" height="50" width="50" /></a>
 </p>
